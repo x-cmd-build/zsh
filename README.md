@@ -1,0 +1,1 @@
+zsh static binary
